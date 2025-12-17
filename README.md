@@ -1,1 +1,1 @@
-## Características - 🎨 Diseño minimalista - 📱 Responsive - ⚡ Rápido y ligero
+## Características - 🎨 Diseño minimalista  - ⚡ Rápido y ligero
