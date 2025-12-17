@@ -11,4 +11,3 @@ Proyecto realizado exclusivamente con HTML y CSS para la colocación de elemento
 ## Vista previa en vivo 👀
 
 Puedes ver una vista previa en vivo del encabezado ![Web Spa](img/HEADER_SPA_BEAUTY.jpg)
-[![Static Badge](https://github.com/Oconcejero/CSS-HEADER-SPA-BEAUTY)](/src/)
